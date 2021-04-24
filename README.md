@@ -25,6 +25,7 @@ A **WEB/MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 👨🏽‍💻 I’m currently working as a Associate Software Engineer at 1BillionTech and Undergraduate student at SLIIT.
 - 👨🏽‍💻 Undergraduate student at SLIIT.
+- 👨🏽‍💻 Blogger [https://anujshashimal456.medium.com](https://anujshashimal456.medium.com).
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA spring with Backend/Cloud development. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
