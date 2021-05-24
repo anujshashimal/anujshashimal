@@ -49,7 +49,4 @@ A **WEB/MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshashimal&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujshashimal&count_private=true&theme=radical" alt="Jas-Script" />
 
-----
-Credit: [Jas-Script](https://github.com/anujshashimal)
 
-Last Edited on: 04/22/2021#
