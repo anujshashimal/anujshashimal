@@ -23,7 +23,7 @@ A **WEB/MOBILE DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer at 1BillionTech.
+- 👨🏽‍💻 I’m currently working as a Senior Software Engineer at 1BillionTech.
 - 🏫 Gratuated at SLIIT.
 - 🏆 Blogger [https://anujshashimal456.medium.com](https://anujshashimal456.medium.com).
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA spring with Backend/Cloud development. 
