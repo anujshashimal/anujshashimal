@@ -36,15 +36,9 @@
   <a href="https://www.linkedin.com/in/anuj-jayasekara" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/anuj_shashimal" target="_blank">
+  <!-- <a href="https://twitter.com/anuj_shashimal" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" height="32" alt="X (Twitter)" />
-  </a>
-  <a href="https://web.facebook.com/anuj.shashimal.75/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/anuj_shashimal" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram" />
-  </a>
+  </a> -->
 </p>
 
 ---
