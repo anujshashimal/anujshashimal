@@ -73,18 +73,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
-
-## 💼 Experience Snapshot
-
-- **Senior Full Stack Engineer — SERV** *(Dec 2023 – Present)*  
-  Building SaaS/AI messaging and CRM capabilities with Next.js, React, and AWS Serverless.
-
-- **Senior Software Engineer — 1 Billion Tech** *(Jan 2020 – Jan 2024)*  
-  Delivered enterprise products like Seer365, MillionSpaces, and Venus v2 with React, Redux, Node.js, Java, and AWS.
-
----
-
 ## 📌 Featured Work
 
 - [SERV](https://www.goserv.com/)
