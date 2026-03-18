@@ -50,7 +50,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -94,16 +93,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujshashimal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
-
----
-
-## 🧠 Current Focus
-
-- Scalable frontend architecture in React/Next.js  
-- Event-driven serverless systems on AWS  
-- Product performance, reliability, and developer experience
-
----
 
 <p align="center">
   <i>“Be the change that you want to see in the world.”</i>
