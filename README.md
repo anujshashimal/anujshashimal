@@ -73,9 +73,5 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujshashimal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
-<p align="center">
   <i>“Be the change that you want to see in the world.”</i>
 </p>
