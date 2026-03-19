@@ -72,24 +72,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 📌 Featured Work
-
-- [SERV](https://www.goserv.com/)
-- [1 Billion Tech](https://1billiontech.com/)
-- [MillionSpaces](https://millionspaces.com/)
-- [Legal & General](https://www.legalandgeneral.com/)
-- [Fashion Web App](https://github.com/anujshashimal/Fashion-Web-App)
-- [Fire Alarm Monitoring System](https://github.com/anujshashimal/Fire-Alarm-Monitoring-System)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anujshashimal&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anujshashimal&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujshashimal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
